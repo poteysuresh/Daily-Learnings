@@ -1,3 +1,0 @@
-learn about linux software managment
-====================================
-#user administrtion
