@@ -1,5 +1,1 @@
-learn about linux software managment
-====================================
-#yum
-#wget
-#package:
+https://github.com/poteysuresh/Daily-Learnings.git
