@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r /var/lib/jenkins/workspace/script2/* /var/www/html
+cp -r /var/lib/jenkins/workspace/project1/* /var/www/html
