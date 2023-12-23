@@ -1,0 +1,4 @@
+learn about linux software managment
+====================================
+#yum
+#wget 
